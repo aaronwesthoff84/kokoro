@@ -56,7 +56,7 @@ Restart terminal
 
 ```bash
 # 1. Clone the repository and navigate to the frontend directory
-git clone https://github.com/bobdavis84/kokoro.git
+git clone https://github.com/(user)/kokoro.git
 cd kokoro/frontend
 
 # 2. Set up the Python environment
@@ -135,7 +135,7 @@ Using `pyenv` helps manage multiple Python versions without conflicts.
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/bobdavis84/kokoro
+    git clone https://github.com/(user)/kokoro
     ```
 
 2.  **Navigate to the frontend directory**:
